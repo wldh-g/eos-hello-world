@@ -8,7 +8,7 @@ Install below before build this `hello-world` contract.
 
 ### How can I build and test the hello world contract
 ```bash
-$ git clone https://github.com/yuoa/eos-hello-world
+$ git clone https://github.com/wldh-g/eos-hello-world
 $ cd eos-hello-world; make
 $ make test
 ```
